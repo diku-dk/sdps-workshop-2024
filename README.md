@@ -1,1 +1,1 @@
-# sdps-workshop.github.io
+# sdps-workshop-2024.github.io
