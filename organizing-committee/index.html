@@ -1,0 +1,40 @@
+---
+# this is an empty front matter
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ORGANIZING COMMITTEE</title>
+{% include head-tags.html %}
+</head>
+<body>
+
+{% include header.html %}
+{% include slider-regular-page.html title="ORGANIZING COMMITTEE" %}
+
+<section id = "organizing-committee">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-9 col-sm-12">
+        <div class="block">
+          <div style="margin-bottom: 100px;">
+            {% if site.data.chairs.general_chairs %}
+            <h1>Organizers</h1>
+            {% for chair in site.data.chairs.general_chairs %}
+              <li>{{ chair.firstname }} {{ chair.lastname }}</li>
+            {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+      {% include side.html %}
+
+    </div>
+  </div>
+</section>
+
+{% include footer.html %}
+</body>
+</html>

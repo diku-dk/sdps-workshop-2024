@@ -1,0 +1,14 @@
+general_chairs: 
+    - firstname: Valerio
+      lastname: Schiavoni
+      institution: University of Neuchâtel, Switzerland
+
+pc_chairs:
+    - firstname: Rodrigo
+      lastname: Laigner
+    - firstname: Ana
+      lastname: Carolina
+    - firstname: Dmitriy
+      lastname: Traytel
+    - firstname: Caroline
+      lastname: Frederikke Trinskjær

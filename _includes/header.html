@@ -1,0 +1,55 @@
+{% if site.data.quick_access.enabled %}
+<header class="quick-access">
+  <a href="/program-schedule/">View Schedule</a>
+</header>
+{% endif %}
+<header class="navbar-sticky-top">
+  <nav class="navbar navbar-default">
+    <div class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img id="logo" src="/img/debs-logo_keep.png" alt="DEBS 2023 Logo">
+        </a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="navigation">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="/">HOME</a></li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">ORGANIZATION <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a class="text-left" href="/organizing-committee/">Organizing Committee</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">CONFERENCE INFO <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a class="text-left" href="/venue-information/">Venue information</a></li>
+              <li><a class="text-left" href="/information-to-authors/">Information to participants</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">PROGRAM <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a class="text-left" href="/program-schedule/">Program Schedule</a></li>
+            </ul>
+          </li>
+
+
+        <ul class="list-inline lang-list">
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

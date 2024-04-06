@@ -1,0 +1,96 @@
+conference_year: 2024
+conference_dates: 7th&ndash;8th 2024
+
+abstract_submission_fall:
+    old: November 11st, 2022
+    current: November 18st, 2022
+
+research_submission_fall:
+    old: November 18h, 2022
+    current: November 25th, 2022
+
+rebuttal_phase_fall:
+    #old: March 11th, 2023
+    current: January 9&ndash;13, 2023
+
+research_notification_fall:
+    #old: March 11th, 2023
+    current: January 20, 2023
+ 
+camera_ready_fall:
+    #old: March 11th, 2023
+    current: March 3rd, 2023
+
+abstract_submission_spring:
+    old: February 17th, 2023
+    current: February 24th, 2023
+
+research_submission_spring:
+    old: February 24th, 2023
+    current: March 3rdth, 2023
+
+rebuttal_phase_spring:
+    #old: March 11th, 2023
+    current: April 13&ndash;17, 2023
+
+research_notification_spring:
+    #old: March 11th, 2023
+    current: April 27, 2023
+ 
+camera_ready_spring:
+    #old: March 11th, 2023
+    current: May 26th, 2023 
+ 
+industry_submission:
+    old: March 25th, 2023
+    current: April 7th, 2023
+
+industry_author_notification:
+    current: April 27th, 2023
+
+camera_ready:
+    current: May 26th, 2023
+
+#tutorial_proposal_submission:
+#    current: April 15th, 2023
+#    
+#tutorial_proposal_author_notification:
+#    current: April 29th, 2023 
+    
+#research_author_notification:
+#    current: May 6th, 2023
+#
+#
+#industry_camera_ready:
+#    current: May 31st, 2023
+#
+#grand_challenge_upload_code:
+#    old: April 5th, 2023
+#    current: April 15th, 2023
+#
+#grand_challenge_submission:
+#    current: April 22th, 2023
+#    
+#grand_challenge_author_notification:
+#    old: May 3rd, 2023
+#    current: May 9th, 2023
+#
+doctoral_symposium_submission:
+    old: May 10th, 2023
+    current: May 20th, 2023
+
+doctoral_symposium_author_notification:
+    old: May 20th, 2023
+    current: May 27th, 2023
+
+poster_demo_submission:
+    old: May 12th, 2023
+    current: May 19th, 2023
+#
+poster_demo_author_notification:
+    current: May 26th, 2023
+#    current: June 3rd, 2023
+#
+
+poster_demo_camera_ready:
+    current: May 31st, 2023
