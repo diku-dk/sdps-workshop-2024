@@ -1,9 +1,13 @@
 pc_chairs:
     - firstname: Rodrigo
       lastname: Laigner
+      role: PhD fellow
     - firstname: Ana
       lastname: Carolina
+      role: Postdoc
     - firstname: Dmitriy
       lastname: Traytel
+      role: Head of Section
     - firstname: Caroline
       lastname: Frederikke Trinskjær
+      role: Fuldmægtig
